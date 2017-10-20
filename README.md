@@ -9,13 +9,21 @@ The goals / steps of this project are the following:
 
 Data analysis can be found on the first cell of the - [behavioralCloning.ipynb](https://github.com/sistelexis/behavioralCloning/blob/master/behavioralCloning.ipynb) file
 Data processing can be seen on the following cells:
-* visualization of 3 randomly chosen images
+
+Visualization of 3 randomly chosen images
+
 ![visualization of 3 randomly chosen images](images/3images.png)
-* crop action on those 3 images
+
+Crop action on those 3 images
+
 ![crop action on those 3 images](images/3images_cropped.png)
-* flip action on those 3 images
+
+Flip action on those 3 images
+
 ![flip action on those 3 images](images/3images_flipped.png)
-* brightness adjustment on those 3 images
+
+Brightness adjustment on those 3 images
+
 ![brightness adjustment on those 3 images](images/3images_brightness.png)
 
 ## Rubric Points
