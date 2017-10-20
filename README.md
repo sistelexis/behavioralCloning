@@ -8,7 +8,8 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 Data analysis can be found on the first cell of the - [behavioralCloning.ipynb](https://github.com/sistelexis/behavioralCloning/blob/master/behavioralCloning.ipynb) file
-Data processing can be seen on the following cells:
+Data processing can be seen on the following cells.
+On that file, it can also be found the different steps of improving the model, from the first recomemndation, to the last model that completed the lap on the track one.
 
 Visualization of 3 randomly chosen images
 
